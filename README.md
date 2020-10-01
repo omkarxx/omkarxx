@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C, C++, Python, OpenCV, Graphic desgning**
 
-- 📫 How to reach me **[@omkarxx][linkedin] omkararora786@gmail.com**
+- 📫 How to reach me **[@omkarxx][linkedin] Or email at : omkararora786@gmail.com**
 
 - ⚡ Fun fact **it's a long way to the top 👾🧑‍🚀**
 
