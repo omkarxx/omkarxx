@@ -45,7 +45,7 @@
 [<img align="left" alt="Omkar Arora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Omkar Arora | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Omkarxx | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Omkarxx | XDA Developers" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" />][website]
+[<img align="left" alt="Omkarxx | XDA Developers" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-plain.svg" />][website]
 [<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
