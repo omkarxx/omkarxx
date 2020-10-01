@@ -33,7 +33,7 @@
   <img align="right" alt="GIF" src="https://github.com/omkarxx/omkarxx/blob/master/31675-programming.gif" width = "330" height = "330">
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarxx)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarxx&color=blueviolet)
 
 ### 📊 GitHub Stats:
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=Omkarxx&show_icons=true&hide_border=true&theme=dracula)
@@ -45,7 +45,7 @@
 [<img align="left" alt="Omkar Arora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Omkar Arora | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Omkarxx | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Omkarxx | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Omkarxx | XDA Developers" width="22px" src="https://www.flaticon.com/free-icon/behance_174837" />][website]
 [<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
