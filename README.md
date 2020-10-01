@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omkar Arora</h1>
+<h1 align="center">Hi, I'm Omkar Arora</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h3 align="center">An enthusiast programmer and an Ardent UI-Ux Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omkarxx" alt="Omkarxx" /> </p>
@@ -13,9 +13,19 @@
 
 - 💬 Ask me about **C, C++, Python, OpenCV, Graphic desgning**
 
-- 📫 How to reach me **omkararora786@gmail.com**
+- 📫 How to reach me **[@omkarxx][linkedin] omkararora786@gmail.com**
 
 - ⚡ Fun fact **it's a long way to the top 👾🧑‍🚀**
+
+### Connect with me:
+[<img align="left" alt="master_nation7 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
+[<img align="left" alt="Omkar Arora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Omkar Arora | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Omkarxx | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Omkarxx | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -27,7 +37,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
-  <img align="right" alt="GIF" src="https://github.com/omkarxx/omkarxx/blob/master/31675-programming.gif" width = "500" height = "500">
+  <img align="right" alt="GIF" src="https://github.com/omkarxx/omkarxx/blob/master/31675-programming.gif" width = "330" height = "330">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarxx)
 
@@ -41,3 +51,10 @@
 <a href="https://www.instagram.com/master_nation7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="can.it07" height="30" width="30" /></a>
 <a href="https://instagram.com/arora_omkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="can.it07" height="30" width="30" /></a>
 </p>
+
+[linkedin]: https://linkedin.com/in/omkarxx/
+[website]: https://www.behance.net/omkarxx
+[instagram]: https://www.instagram.com/arora_omkar/
+[twitter]: https://twitter.com/omkararora1
+[github]: https://github.com/omkarxx
+[instagram2]: https://www.instagram.com/master_nation7/
