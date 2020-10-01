@@ -27,7 +27,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
-  <img align="right" alt="GIF" src="https://github.com/omkarxx/omkarxx/blob/master/31675-programming.gif" width = "500" height = "330">
+  <img align="right" alt="GIF" src="https://github.com/omkarxx/omkarxx/blob/master/31675-programming.gif" width = "500" height = "500">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarxx)
 
