@@ -36,7 +36,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarxx&color=blueviolet)
 
 ### 📊 GitHub Stats:
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=Omkarxx&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true)
+![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=Omkarxx&show_icons=true&hide_border=true&theme=dracula&count_private=true)
 
 ⭐️ From [Omkarxx](https://github.com/Omkarxx)
 
