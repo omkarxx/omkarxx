@@ -31,14 +31,14 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
   <img align="right" alt="GIF" src="https://github.com/omkarxx/omkarxx/blob/master/31675-programming.gif" width = "330" height = "330">
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarxx&color=blueviolet)
-
+  
+  
 ### 📊 GitHub Stats:
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=Omkarxx&show_icons=true&hide_border=true&theme=dracula&count_private=true)
 
 ![Top lang](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Omkarxx&layout=compact&theme=radical)
+
+
 ⭐️ From [Omkarxx](https://github.com/Omkarxx)
 
 ### Connect with me:
