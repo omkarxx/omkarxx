@@ -38,7 +38,7 @@
 ### 📊 GitHub Stats:
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=Omkarxx&show_icons=true&hide_border=true&theme=dracula&count_private=true)
 
-![Top lang](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Top lang](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Omkarxx&layout=compact&theme=radical)
 ⭐️ From [Omkarxx](https://github.com/Omkarxx)
 
 ### Connect with me:
