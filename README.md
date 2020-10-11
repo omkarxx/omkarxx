@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omkarxx" alt="Omkarxx" /> </p>
 
-- 🔭 I’m currently working on [Automated Attendance System](https://github.com/kanitmann/pick_n_place_arduino)
+- 🔭 I’m currently working on [Automated Attendance System](https://github.com/Omkarxx)
 
 - 🌱 I’m currently learning **Android Development, Machine Learning**
 
