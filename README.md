@@ -48,6 +48,7 @@
 [<img align="left" alt="Omkarxx | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Omkarxx | XDA Developers" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-plain.svg" />][website]
 [<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Omkar Arora's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/omkarxx)
 <br />
 
 [linkedin]: https://linkedin.com/in/omkarxx/
