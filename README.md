@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omkarxx" alt="Omkarxx" /> </p>
 
-- 🔭 I’m currently working on [Automated Attendance System](https://github.com/Omkarxx)
+- 🔭 I’m currently working on [Stock Price Info Webapp](https://github.com/omkarxx/Stock_price)
 
 - 🌱 I’m currently learning **Android Development, Machine Learning**
 
